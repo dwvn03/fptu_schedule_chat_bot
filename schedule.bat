@@ -1,2 +1,0 @@
-@echo OFF
-node login
