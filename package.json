@@ -1,0 +1,24 @@
+{
+  "name": "fptu_schedule_chat_bot",
+  "version": "1.2.0",
+  "description": "��#\u0000 \u0000f\u0000p\u0000t\u0000u\u0000_\u0000s\u0000c\u0000h\u0000e\u0000d\u0000u\u0000l\u0000e\u0000_\u0000c\u0000h\u0000a\u0000t\u0000_\u0000b\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "js/main.js",
+  "scripts": {
+    "run": "node js/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwvn03/fptu_schedule_chat_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwvn03/fptu_schedule_chat_bot/issues"
+  },
+  "homepage": "https://github.com/dwvn03/fptu_schedule_chat_bot#readme",
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
+}
