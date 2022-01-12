@@ -1,9 +1,8 @@
-const 
-    puppeteer = require('puppeteer'),
-    fileFunc = require('./fileFunc'),
-    login = require('./login'),
-    getMeetLinks = require('./getMeetLinks'),
-    getAbsent = require('./getAbsent');
+const puppeteer = require('puppeteer');
+const fileFunc = require('./fileFunc');
+const login = require('./login');
+const getMeetLinks = require('./getMeetLinks');
+const getAbsent = require('./getAbsent');
 
 main();
 
